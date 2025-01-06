@@ -1,3 +1,4 @@
+## WordPress Plugin
 1. Track custom post types along with posts and pages.
 2. View ll stats and tracking data in the admin panel.
 3. Download stats and CSV data.
